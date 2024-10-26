@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing : border-box;
+}
+.foot-container
+{
+  
+
+    width:100vw;
+    min-height:250px;
+    margin-top:60px;
+    background-color: black;
+    color:white;
+    display:flex;
+    font-size: 14px;;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+
+}
+.conditionList,.serviceList,.socialMediaList{
+    width:33.33333%;
+    height:100%;
+    padding:30px;
+    color:white;
+    text-align:center;
+    line-height:1.2em;
+
+
+}
+
+.socialMediaList ul li,.conditionList ul li ,.serviceList ul li{
+    display:block;         
+    margin:20px;
+    font-size:1.02em;
+    
+}
+

@@ -1,0 +1,25 @@
+.oops{
+    width:220px;
+    
+    transition: 0.5 ease-in-out;
+}
+.errorCode
+{
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    position:relative;
+    top:-50px;
+    left:-10px;
+    font-size: 20px;;
+    
+}
+.oppsLogo{
+    width:250px;
+}
+.errorTitle{
+  position:relative;
+  left:30px;
+}
